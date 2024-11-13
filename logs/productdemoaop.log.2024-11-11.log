@@ -1,0 +1,18 @@
+2024-11-11 22:52:18.169 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.1.Final
+2024-11-11 22:52:18.200 [main] INFO  c.e.x.j.productdemoaop.ProductDemoAOPApplication - Starting ProductDemoAOPApplication using Java 21.0.2 with PID 14944 (D:\Learning\code\JavaEEPlatform\7.SpringAOP\productdemoaop\target\classes started by 44338 in D:\Learning\code\JavaEEPlatform\7.SpringAOP\productdemoaop)
+2024-11-11 22:52:18.201 [main] DEBUG c.e.x.j.productdemoaop.ProductDemoAOPApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+2024-11-11 22:52:18.201 [main] INFO  c.e.x.j.productdemoaop.ProductDemoAOPApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-11 22:52:19.143 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-11-11 22:52:19.156 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-11 22:52:19.159 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-11 22:52:19.159 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-11-11 22:52:19.192 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-11 22:52:19.192 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 962 ms
+2024-11-11 22:52:20.074 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 14 endpoints beneath base path '/actuator'
+2024-11-11 22:52:20.112 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-11 22:52:20.126 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-11-11 22:52:20.132 [main] INFO  c.e.x.j.productdemoaop.ProductDemoAOPApplication - Started ProductDemoAOPApplication in 2.163 seconds (process running for 2.514)
+2024-11-11 22:53:20.526 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-11 22:53:20.526 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-11-11 22:53:20.528 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2024-11-11 22:53:20.579 [http-nio-8080-exec-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
